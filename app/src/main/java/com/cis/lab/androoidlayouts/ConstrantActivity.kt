@@ -10,8 +10,6 @@ class ConstrantActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_constrant)
 
-        button6.setOnClickListener{
-            this.finish()
-        }
+
     }
 }
