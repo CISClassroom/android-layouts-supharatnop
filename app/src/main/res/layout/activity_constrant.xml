@@ -47,7 +47,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="รหัสนักสึกษา : 603410213-3"
+        android:text="รหัสนักสึกษา : 603410219-3"
         android:textColor="#2196F3"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
